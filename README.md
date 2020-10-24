@@ -1,2 +1,3 @@
 # BullseyeSwiftUI
-MyFirstProjectOnSwiftUI
+Bullseye game for iOS
+![GitHub Logo](/Bullseye/Bullseye.png)
